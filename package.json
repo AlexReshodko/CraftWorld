@@ -1,0 +1,8 @@
+{
+  "name": "CraftWorld",
+  "description": "CraftWorld game",
+  "main": "js/main.js",
+  "dependencies": {
+    "tabris": "^1.5.0"
+  }
+}

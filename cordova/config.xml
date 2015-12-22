@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="zidix.craftworld" version="0.0.1">
+    <name>CraftWorld</name>
+    <description>
+        CraftWorld game.
+    </description>
+    <author email="zidixorg@gmail.com" href="https://zidix.org.ua">
+        Z!D!X
+    </author>
+</widget>
